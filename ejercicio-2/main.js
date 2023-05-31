@@ -20,7 +20,7 @@ let tarjetas = [
       "C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C y añadir mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido.",
   },
   {
-    img: "https://e7.pngegg.com/pngimages/631/270/png-clipart-php-php-thumbnail.png",
+    img: "https://www.pngmart.com/files/7/PHP-PNG-File.png", title: "php",
     description:"PHP es un lenguaje creado por una gran comunidad de personas. El sistema fue desarrollado originalmente en el año 1994 por Rasmus Lerdorf como un CGI escrito en C que permitía la interpretación de un número limitado de comandos. El sistema fue denominado Personal Home Page Tools y adquirió relativo éxito gracias a que otras personas pidieron a Rasmus que les permitiese utilizar sus programas en sus propias páginas."
   },
 ];
